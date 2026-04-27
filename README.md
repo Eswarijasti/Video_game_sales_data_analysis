@@ -11,7 +11,6 @@ Analyze global video game sales data to identify top-performing genres, platform
 * Python (Pandas)
 * MySQL
 * Power BI
-* Streamlit
 
 ---
 
@@ -35,12 +34,12 @@ Analyze global video game sales data to identify top-performing genres, platform
 ## 📊 Key Insights
 
 * Action genre dominates global sales
-* North America contributes highest revenue
-* Peak sales observed between 2005–2010
+* Who contributes highest revenue
+* Peak sales observed between time
 
 ---
 
-## 💻 Streamlit App
+## 💻 powerbi
 
 * Interactive filtering by genre, region, and year
 * Dynamic visualization of sales trends
