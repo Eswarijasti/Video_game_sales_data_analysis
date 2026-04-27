@@ -45,14 +45,3 @@ Analyze global video game sales data to identify top-performing genres, platform
 * Dynamic visualization of sales trends
 
 ---
-
-## 📸 Screenshots
-
-(Add dashboard + app images)
-
----
-
-## ▶️ How to Run
-
-pip install -r requirements.txt
-streamlit run app.py
